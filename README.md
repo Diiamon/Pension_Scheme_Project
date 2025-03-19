@@ -58,5 +58,5 @@ The project focuses on cleaning and preparing pension data, reconciling pension 
 
 ---
 
-## dOCUMENTATION
+## Documentation
 - Maintained comprehensive and easily accessible documentation to ensure clear communication of project processes, methodologies, and results for all stakeholders.
